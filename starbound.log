@@ -1,240 +1,159 @@
-Start logging at: 2015-03-24 13:33:03.203
-[13:33:03.203] Info: Star::Root using bootstrap file 'C:\Program Files (x86)\Steam\steamapps\common\Starbound\win32\sbboot.config'
-[13:33:03.203] Info: Star::Root using storage directory 'C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\'
-[13:33:03.203] Info: Preparing Star::Root...
-[13:33:03.203] Info: Loading Configuration with config file: 'starbound.config'
-[13:33:03.203] Info: Loading Star::Configuration from 'Just (.\..\giraffe_storage\starbound.config)'
-[13:33:03.280] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
-[13:33:03.285] Info: Initializing Star::Root with 2 assets sources
-[13:33:03.285] Info: Done preparing Star::Root.
-[13:33:03.285] Info: Client version 'Beta v. Upbeat Giraffe - Update 2' Protocol: 668
-[13:33:03.285] Info: Initialized SDL
-[13:33:03.334] Info: Initialized SDL Video
-[13:33:03.341] Info: Initialized SDL Joystick
-[13:33:03.342] Info: Initialized SDL Sound
-[13:33:03.357] Info: Opened default audio device with 44khz / 16 bit stereo audio, 2048 sample size buffer
-[13:33:03.357] Info: Loading Assets
-[13:33:03.357] Info: Loading Star::Assets from: '../assets/packed.pak'
-[13:33:03.379] Info: Loading Star::Assets from: '../assets/user'
-[13:33:04.022] Info: Done loading Assets
-[13:33:04.072] Info: Fully loading Star::Root...
-[13:33:04.073] Info: Loading ObjectDatabase
-[13:33:04.073] Info: Loading PlantDatabase
-[13:33:04.074] Info: Loading ProjectileDatabase
-[13:33:04.076] Info: Loading MonsterDatabase
-[13:33:04.079] Info: Loading NpcDatabase
-[13:33:04.084] Info: Loading PlayerFactory
-[13:33:04.085] Info: Loading EntityFactory
-[13:33:04.085] Info: Loading ItemDatabase
-[13:33:04.383] Info: Done loading PlayerFactory
-[13:33:04.383] Info: Loading MaterialDatabase
-[13:33:04.383] Info: Loading ParticleDatabase
-[13:33:04.953] Info: Initializing SDL Window
-[13:33:05.008] Info: Created initial window 944x1001
-[13:33:05.021] Info: Renderer initialized
-[13:33:05.022] Info: Renderer destroyed
-[13:33:05.022] Info: Initializing SDL Window
-[13:33:05.087] Info: Re-created window 1920x1017
-[13:33:05.103] Info: Renderer initialized
-[13:33:05.286] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
-[13:33:11.603] Info: Done loading NpcDatabase
-[13:33:11.603] Info: Loading TerrainDatabase
-[13:33:12.535] Info: Done loading TerrainDatabase
-[13:33:12.535] Info: Loading BiomeDatabase
-[13:33:14.351] Info: Done loading ParticleDatabase
-[13:33:18.283] Info: Done loading BiomeDatabase
-[13:33:18.283] Info: Loading LiquidsDatabase
-[13:33:20.794] Info: Done loading PlantDatabase
-[13:33:20.794] Info: Loading StatusEffectDatabase
-[13:33:23.028] Info: Done loading StatusEffectDatabase
-[13:33:23.028] Info: Loading DamageDatabase
-[13:33:24.348] Info: Done loading MaterialDatabase
-[13:33:24.348] Info: Loading EffectSourceDatabase
-[13:33:24.417] Info: Done loading LiquidsDatabase
-[13:33:24.417] Info: Loading FunctionDatabase
-[13:33:25.569] Info: Done loading FunctionDatabase
-[13:33:25.569] Info: Loading TreasureDatabase
-[13:33:26.141] Info: Done loading EffectSourceDatabase
-[13:33:26.142] Info: Loading DungeonDefinitions
-[13:33:26.639] Info: Done loading DamageDatabase
-[13:33:26.639] Info: Loading EmoteProcessor
-[13:33:26.696] Info: Done loading EmoteProcessor
-[13:33:26.696] Info: Loading SpeciesDatabase
-[13:33:26.696] Info: Done loading TreasureDatabase
-[13:33:26.696] Info: Loading ImageMetadataDatabase
-[13:33:26.696] Info: Done loading ImageMetadataDatabase
-[13:33:26.696] Info: Loading VersioningDatabase
-[13:33:26.697] Info: Done loading VersioningDatabase
-[13:33:26.697] Info: Loading QuestTemplateDatabase
-[13:33:27.110] Info: Done loading SpeciesDatabase
-[13:33:27.110] Info: Loading AiDatabase
-[13:33:27.482] Info: Done loading ProjectileDatabase
-[13:33:27.482] Info: Loading TechDatabase
-[13:33:28.401] Info: Done loading TechDatabase
-[13:33:28.666] Info: Done loading AiDatabase
-[13:33:29.275] Info: Done loading QuestTemplateDatabase
-[13:33:35.142] Info: Done loading MonsterDatabase
-[13:33:36.833] Info: Done loading ObjectDatabase
-[13:33:36.833] Info: Done loading EntityFactory
-[13:33:52.961] Info: Done loading DungeonDefinitions
-[13:34:17.493] Info: Done loading ItemDatabase
-[13:34:17.493] Info: Done fully loading Star::Root
-[13:34:17.505] Info: Renderer destroyed
-[13:34:19.273] Info: Creating default Star::Configuration
-[13:34:19.273] Info: Creating default Star::Configuration
-[13:34:19.342] Info: Renderer initialized
-[13:34:24.320] Info: Renderer destroyed
-[13:34:24.495] Info: Acquiring universe lock file
-[13:34:24.508] Info: Loading settings
-[13:34:24.509] Info: Finding starter world
-[13:34:24.510] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:6:1 
-[13:34:24.995] Info: UniverseServer: Logged in player 'Shay Cabana' locally
-[13:34:24.995] Info: UniverseServer: Logged in account '<anonymous>' as player 'Shay Cabana' from address local
-[13:34:24.999] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x1a0b13c0>) connected
-[13:34:25.000] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[13:34:25.654] Info: Creating default Star::Configuration
-[13:34:25.654] Info: Creating default Star::Configuration
-[13:34:25.896] Info: Renderer initialized
-[13:34:26.593] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:12 
-[13:34:35.018] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:6:1 due to inactivity
-[13:34:36.744] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:12 due to inactivity
-[13:34:41.188] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
-[13:35:07.092] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:12 
-[13:35:07.202] Info: Client received world stop packet, leaving: Removed
-[13:35:13.678] Info: Client received world stop packet, leaving: Removed
-[13:35:23.750] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:12 due to inactivity
-[13:37:54.656] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:10:3 
-[13:38:05.097] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:10:3 due to inactivity
-[13:38:36.573] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:10:3 
-[13:38:36.912] Info: Client received world stop packet, leaving: Removed
-[13:38:46.935] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[13:40:57.938] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[13:40:59.162] Info: Client received world stop packet, leaving: Removed
-[13:41:03.125] Info: Client received world stop packet, leaving: Removed
-[13:41:13.141] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[14:12:16.540] Info: Renderer destroyed
-[14:12:16.543] Info: UniverseClient: Client disconnecting...
-[14:12:16.553] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x1a0b13c0>) disconnected
-[14:12:16.554] Info: Client received world stop packet, leaving: Removed
-[14:12:16.607] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
-[14:12:16.615] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
-[14:12:17.959] Info: Renderer initialized
-[14:12:21.507] Info: Renderer destroyed
-[14:12:21.665] Info: Acquiring universe lock file
-[14:12:21.666] Info: Loading settings
-[14:12:21.667] Info: Finding starter world
-[14:12:21.668] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:6:1 
-[14:12:21.964] Info: UniverseServer: Logged in player 'Shay Cabana' locally
-[14:12:21.964] Info: UniverseServer: Logged in account '<anonymous>' as player 'Shay Cabana' from address local
-[14:12:21.968] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x2a3ee9c0>) connected
-[14:12:21.969] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[14:12:21.992] Info: Creating default Star::Configuration
-[14:12:21.992] Info: Creating default Star::Configuration
-[14:12:22.020] Info: Renderer initialized
-[14:12:23.162] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:10:3 
-[14:12:31.968] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:6:1 due to inactivity
-[14:12:33.586] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:10:3 due to inactivity
-[14:15:14.748] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
-[14:17:42.844] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
-[14:22:20.903] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:10:3 
-[14:22:21.249] Info: Client received world stop packet, leaving: Removed
-[14:22:31.330] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[14:31:18.736] Info: Renderer destroyed
-[14:31:18.738] Info: UniverseClient: Client disconnecting...
-[14:31:18.749] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x2a3ee9c0>) disconnected
-[14:31:18.749] Info: Client received world stop packet, leaving: Removed
-[14:31:18.779] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
-[14:31:18.779] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
-[14:31:19.978] Info: Renderer initialized
-[14:31:30.112] Info: Renderer destroyed
-[14:31:30.270] Info: Acquiring universe lock file
-[14:31:30.271] Info: Loading settings
-[14:31:30.272] Info: Finding starter world
-[14:31:30.273] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:6:1 
-[14:31:30.589] Info: UniverseServer: Logged in player 'Shay Cabana' locally
-[14:31:30.589] Info: UniverseServer: Logged in account '<anonymous>' as player 'Shay Cabana' from address local
-[14:31:30.593] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x2b6da608>) connected
-[14:31:30.594] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[14:31:30.619] Info: Creating default Star::Configuration
-[14:31:30.619] Info: Creating default Star::Configuration
-[14:31:30.646] Info: Renderer initialized
-[14:31:32.180] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:10:3 
-[14:31:40.583] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:6:1 due to inactivity
-[14:31:42.573] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:10:3 due to inactivity
-[14:36:29.022] Info: UniverseServer: Creating world 943915765:-907149130:-28464694:3 
-[14:36:32.605] Warn: Failed to place dungeon object: medievaltable direction: 0 position: (4245, 1707)
-[14:36:32.608] Warn: Failed to place dungeon object: medievalcandle direction: 0 position: (4245, 1709)
-[14:36:32.608] Warn: Failed to place dungeon object: medievalbowl direction: 0 position: (4247, 1709)
-[14:36:43.468] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:3 due to inactivity
-[14:37:08.768] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:3 
-[14:37:09.100] Info: Client received world stop packet, leaving: Removed
-[14:37:19.120] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[14:41:36.182] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[14:41:37.597] Info: Client received world stop packet, leaving: Removed
-[14:41:47.633] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:3 due to inactivity
-[14:42:15.203] Info: UniverseServer: Creating world 943915794:-907149124:96563292:8:5 
-[14:42:15.609] Info: Placing dungeon floranvillagetower
-[14:42:15.609] Info: Generating dungeon floranvillagetower (NOT FORCED)
-[14:42:15.614] Info: Placing dungeon at (3786, 1100)
-[14:42:16.320] Warn: Failed to place dungeon object: floranpainting5 direction: 0 position: (3834, 1138)
-[14:42:16.342] Warn: Failed to place dungeon object: floranpainting1 direction: 0 position: (3834, 1147)
-[14:42:29.726] Info: UniverseServer: Shutting down world CelestialWorld:943915794:-907149124:96563292:8:5 due to inactivity
-[14:43:24.605] Info: UniverseServer: Loading world db for world 943915794:-907149124:96563292:8:5 
-[14:43:24.871] Info: Client received world stop packet, leaving: Removed
-[14:43:25.961] Warn: Failed to place dungeon object: castledungeondoor direction: 0 position: (214, 1119)
-[14:43:25.961] Warn: Failed to place dungeon object: castledungeondoor direction: 0 position: (228, 1119)
-[14:43:34.877] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[14:45:41.875] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[14:45:43.237] Info: Client received world stop packet, leaving: Removed
-[14:45:53.107] Info: UniverseServer: Shutting down world CelestialWorld:943915794:-907149124:96563292:8:5 due to inactivity
-[14:47:13.309] Info: UniverseServer: Creating world 943915765:-907149130:-28464694:7:2 
-[14:47:25.754] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:7:2 due to inactivity
-[14:48:21.929] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:7:2 
-[14:48:22.180] Info: Client received world stop packet, leaving: Removed
-[14:48:32.754] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[14:49:00.005] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[14:49:01.442] Info: Client received world stop packet, leaving: Removed
-[14:49:07.139] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:12 
-[14:49:07.257] Info: Client received world stop packet, leaving: Removed
-[14:49:11.424] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:7:2 due to inactivity
-[14:49:15.564] Info: UniverseServer: Creating unique world outpost
-[14:49:15.682] Info: Placing dungeon outpost
-[14:49:15.682] Info: Generating dungeon outpost (NOT FORCED)
-[14:49:15.811] Info: Placing dungeon at (233, 500)
-[14:49:17.235] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[14:49:17.781] Info: Protected dungeonIds for world set to (0)
-[14:49:19.181] Info: Client received world stop packet, leaving: Removed
-[14:49:29.207] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:12 due to inactivity
-[14:50:53.348] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:12 
-[14:50:53.466] Info: Client received world stop packet, leaving: Removed
-[14:51:01.787] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[14:51:02.718] Info: Client received world stop packet, leaving: Removed
-[14:51:03.486] Info: UniverseServer: Shutting down world UniqueWorld:outpost due to inactivity
-[14:51:12.690] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:12 due to inactivity
-[14:51:27.062] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:12 
-[14:51:27.170] Info: Client received world stop packet, leaving: Removed
-[14:51:37.228] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
-[14:51:41.787] Info: UniverseServer: Creating unique world outpost
-[14:51:41.910] Info: Placing dungeon outpost
-[14:51:41.910] Info: Generating dungeon outpost (NOT FORCED)
-[14:51:42.035] Info: Placing dungeon at (233, 500)
-[14:51:43.823] Info: Protected dungeonIds for world set to (0)
-[14:51:45.152] Info: Client received world stop packet, leaving: Removed
-[14:51:55.213] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:12 due to inactivity
-[14:53:02.689] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:12 
-[14:53:02.805] Info: Client received world stop packet, leaving: Removed
-[14:53:05.589] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
-[14:53:06.687] Info: Client received world stop packet, leaving: Removed
-[14:53:12.814] Info: UniverseServer: Shutting down world UniqueWorld:outpost due to inactivity
-[14:53:16.635] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:12 due to inactivity
-[14:53:33.036] Info: Renderer destroyed
-[14:53:33.040] Info: UniverseClient: Client disconnecting...
-[14:53:33.347] Info: Client received world stop packet, leaving: Removed
-[14:53:34.072] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x2b6da608>) disconnected
-[14:53:34.115] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
-[14:53:34.116] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
-[14:53:35.085] Info: Renderer initialized
-[14:53:45.870] Info: Renderer destroyed
-[14:53:45.870] Info: Application quitting!
-[14:53:45.870] Info: Client shutdown gracefully
-[14:53:46.010] Info: Shutting down Star::Root
+Start logging at: 2015-03-26 14:25:38.438
+[14:25:38.439] Info: Star::Root using bootstrap file 'C:\Program Files (x86)\Steam\steamapps\common\Starbound\win32\sbboot.config'
+[14:25:38.439] Info: Star::Root using storage directory 'C:\Program Files (x86)\Steam\steamapps\common\Starbound\giraffe_storage\'
+[14:25:38.440] Info: Preparing Star::Root...
+[14:25:38.440] Info: Loading Configuration with config file: 'starbound.config'
+[14:25:38.440] Info: Loading Star::Configuration from 'Just (.\..\giraffe_storage\starbound.config)'
+[14:25:38.543] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
+[14:25:38.547] Info: Initializing Star::Root with 2 assets sources
+[14:25:38.547] Info: Done preparing Star::Root.
+[14:25:38.547] Info: Client version 'Beta v. Upbeat Giraffe - Update 2' Protocol: 668
+[14:25:38.547] Info: Initialized SDL
+[14:25:38.682] Info: Initialized SDL Video
+[14:25:38.728] Info: Initialized SDL Joystick
+[14:25:38.730] Info: Initialized SDL Sound
+[14:25:38.744] Info: Opened default audio device with 44khz / 16 bit stereo audio, 2048 sample size buffer
+[14:25:38.745] Info: Loading Assets
+[14:25:38.745] Info: Loading Star::Assets from: '../assets/packed.pak'
+[14:25:38.795] Info: Loading Star::Assets from: '../assets/user'
+[14:25:40.100] Info: Done loading Assets
+[14:25:40.164] Info: Fully loading Star::Root...
+[14:25:40.164] Info: Loading ObjectDatabase
+[14:25:40.164] Info: Loading PlantDatabase
+[14:25:40.164] Info: Loading ProjectileDatabase
+[14:25:40.165] Info: Loading MonsterDatabase
+[14:25:40.165] Info: Loading NpcDatabase
+[14:25:40.165] Info: Loading PlayerFactory
+[14:25:40.165] Info: Loading EntityFactory
+[14:25:40.166] Info: Loading ItemDatabase
+[14:25:40.558] Info: Done loading PlayerFactory
+[14:25:40.558] Info: Loading MaterialDatabase
+[14:25:40.558] Info: Loading ParticleDatabase
+[14:25:40.996] Info: Initializing SDL Window
+[14:25:41.023] Info: Created initial window 944x1001
+[14:25:41.034] Info: Renderer initialized
+[14:25:41.036] Info: Renderer destroyed
+[14:25:41.036] Info: Initializing SDL Window
+[14:25:41.045] Info: Re-created window 1366x705
+[14:25:41.058] Info: Renderer initialized
+[14:25:57.563] Info: Done loading NpcDatabase
+[14:25:57.564] Info: Loading TerrainDatabase
+[14:26:00.594] Info: Done loading TerrainDatabase
+[14:26:00.594] Info: Loading BiomeDatabase
+[14:26:07.715] Info: Done loading ParticleDatabase
+[14:26:12.562] Info: Done loading BiomeDatabase
+[14:26:12.562] Info: Loading LiquidsDatabase
+[14:26:16.900] Info: Done loading PlantDatabase
+[14:26:16.900] Info: Loading StatusEffectDatabase
+[14:26:20.759] Info: Done loading StatusEffectDatabase
+[14:26:20.759] Info: Loading DamageDatabase
+[14:26:23.023] Info: Done loading ProjectileDatabase
+[14:26:23.023] Info: Loading EffectSourceDatabase
+[14:26:26.309] Info: Done loading EffectSourceDatabase
+[14:26:26.309] Info: Loading FunctionDatabase
+[14:26:27.394] Info: Done loading DamageDatabase
+[14:26:27.394] Info: Loading TreasureDatabase
+[14:26:28.584] Info: Done loading TreasureDatabase
+[14:26:28.584] Info: Loading DungeonDefinitions
+[14:26:30.505] Info: Done loading MaterialDatabase
+[14:26:30.505] Info: Loading EmoteProcessor
+[14:26:30.574] Info: Done loading EmoteProcessor
+[14:26:30.574] Info: Loading SpeciesDatabase
+[14:26:30.798] Info: Done loading LiquidsDatabase
+[14:26:30.798] Info: Loading ImageMetadataDatabase
+[14:26:30.798] Info: Done loading ImageMetadataDatabase
+[14:26:30.798] Info: Loading VersioningDatabase
+[14:26:30.799] Info: Done loading VersioningDatabase
+[14:26:30.799] Info: Loading QuestTemplateDatabase
+[14:26:31.997] Info: Done loading FunctionDatabase
+[14:26:31.997] Info: Loading AiDatabase
+[14:26:32.118] Info: Done loading SpeciesDatabase
+[14:26:32.118] Info: Loading TechDatabase
+[14:26:34.021] Info: Done loading TechDatabase
+[14:26:34.279] Info: Done loading AiDatabase
+[14:26:34.939] Info: Done loading QuestTemplateDatabase
+[14:26:44.690] Info: Done loading MonsterDatabase
+[14:27:00.238] Info: Done loading ObjectDatabase
+[14:27:00.238] Info: Done loading EntityFactory
+[14:27:02.239] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
+[14:27:47.003] Info: Done loading DungeonDefinitions
+[14:28:35.210] Info: Renderer destroyed
+[14:28:35.211] Info: Initializing SDL Window
+[14:28:35.219] Info: Re-created window 944x1001
+[14:28:35.237] Info: Renderer initialized
+[14:28:35.713] Info: Renderer destroyed
+[14:28:35.713] Info: Initializing SDL Window
+[14:28:35.722] Info: Re-created window 1366x705
+[14:28:35.742] Info: Renderer initialized
+[14:28:36.403] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
+[14:28:45.293] Info: Done loading ItemDatabase
+[14:28:45.293] Info: Done fully loading Star::Root
+[14:28:45.305] Info: Renderer destroyed
+[14:28:48.235] Info: Creating default Star::Configuration
+[14:28:48.235] Info: Creating default Star::Configuration
+[14:28:48.438] Info: Renderer initialized
+[14:28:54.646] Info: Renderer destroyed
+[14:28:54.814] Info: Acquiring universe lock file
+[14:28:54.815] Info: Loading settings
+[14:28:54.818] Info: Finding starter world
+[14:28:54.819] Info: UniverseServer: Loading world db for world 943915758:-907149109:-226359402:6:1 
+[14:28:55.921] Info: UniverseServer: Logged in player 'Shay Cabana' locally
+[14:28:55.921] Info: UniverseServer: Logged in account '<anonymous>' as player 'Shay Cabana' from address local
+[14:28:55.926] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x1a6501d8>) connected
+[14:28:55.927] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
+[14:28:57.807] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:7:2 
+[14:28:58.608] Info: Creating default Star::Configuration
+[14:28:58.608] Info: Creating default Star::Configuration
+[14:28:59.096] Info: Renderer initialized
+[14:29:05.929] Info: UniverseServer: Shutting down world CelestialWorld:943915758:-907149109:-226359402:6:1 due to inactivity
+[14:29:08.470] Info: UniverseServer: Shutting down world CelestialWorld:943915765:-907149130:-28464694:7:2 due to inactivity
+[14:29:12.424] Info: Writing Star::Configuration to '.\..\giraffe_storage\starbound.config'
+[14:29:59.190] Info: UniverseServer: Creating mission world MissionWorldId:mission3-4bc163da977674b0d0ce4a625176c600
+[14:29:59.708] Info: Placing dungeon floranmission1
+[14:29:59.708] Info: Generating dungeon floranmission1 (NOT FORCED)
+[14:30:00.815] Info: Placing dungeon at (233, 1200)
+[14:30:09.961] Warn: Failed to place dungeon object: plantcage3 direction: 0 position: (1205, 967)
+[14:30:10.478] Warn: Failed to place dungeon object: bonespike direction: 0 position: (672, 1094)
+[14:30:10.543] Warn: Failed to place dungeon object: root5 direction: 0 position: (1195, 1104)
+[14:30:10.546] Warn: Failed to place dungeon object: skulltorch direction: 0 position: (1332, 1104)
+[14:30:10.553] Warn: Failed to place dungeon object: planturn1 direction: 1 position: (379, 1108)
+[14:30:10.555] Warn: Failed to place dungeon object: planturn3 direction: 1 position: (395, 1109)
+[14:30:10.619] Warn: Failed to place dungeon object: barrellarge direction: 0 position: (829, 1119)
+[14:30:10.755] Warn: Failed to place dungeon object: root4 direction: 0 position: (922, 1131)
+[14:30:10.924] Warn: Failed to place dungeon object: root3 direction: 0 position: (744, 1148)
+[14:30:11.059] Warn: Failed to place dungeon object: root5 direction: 0 position: (1055, 1199)
+[14:30:11.111] Warn: Failed to place dungeon object: plantdoor1 direction: 0 position: (441, 1223)
+[14:30:12.021] Warn: Dungeon wire endpoint not found. (1096, 1066)
+[14:30:12.021] Warn: Dungeon wire endpoint not found. (1096, 1067)
+[14:30:12.021] Warn: Dungeon wire endpoint not found. (1099, 1066)
+[14:30:12.021] Warn: Dungeon wire endpoint not found. (1099, 1067)
+[14:30:12.021] Warn: Dungeon wire endpoint not found. (1093, 1066)
+[14:30:12.022] Warn: Dungeon wire endpoint not found. (1093, 1067)
+[14:30:12.022] Warn: Dungeon wire endpoint not found. (534, 1127)
+[14:30:12.023] Warn: Dungeon wire endpoint not found. (388, 1202)
+[14:30:12.023] Warn: Dungeon wire endpoint not found. (1044, 1201)
+[14:30:12.023] Warn: Dungeon wire endpoint not found. (1044, 1202)
+[14:30:12.023] Warn: Dungeon wire endpoint not found. (1049, 1201)
+[14:30:12.023] Warn: Dungeon wire endpoint not found. (1049, 1202)
+[14:30:13.078] Info: Protected dungeonIds for world set to (0)
+[14:30:14.182] Info: Client received world stop packet, leaving: Removed
+[14:30:24.212] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
+[14:39:08.512] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
+[14:39:09.848] Info: Client received world stop packet, leaving: Removed
+[14:39:19.810] Info: UniverseServer: Shutting down world MissionWorldId:mission3-4bc163da977674b0d0ce4a625176c600 due to inactivity
+[14:40:52.882] Info: UniverseServer: Loading world db for world 943915765:-907149130:-28464694:7:2 
+[14:40:53.197] Info: Client received world stop packet, leaving: Removed
+[14:41:03.188] Info: UniverseServer: Shutting down world ClientShipWorld:5588a3d486bf947afe1daeef6c669b37 due to inactivity
+[14:42:04.250] Info: UniverseServer: Loading ship world received from client <User: Shay Cabana>
+[14:42:05.630] Info: Client received world stop packet, leaving: Removed
+[14:42:08.241] Info: Renderer destroyed
+[14:42:08.244] Info: UniverseClient: Client disconnecting...
+[14:42:08.254] Info: Client received world stop packet, leaving: Removed
+[14:42:08.677] Info: UniverseServer: Client 'Shay Cabana' <1> (Fifo <0x1a6501d8>) disconnected
+[14:42:08.789] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
+[14:42:08.789] Info: NetSocket read loop shut down: (FifoClosedException) Fifo::read called on closed Fifo
+[14:42:09.709] Info: Renderer initialized
+[14:42:10.860] Info: Renderer destroyed
+[14:42:10.860] Info: Application quitting!
+[14:42:10.860] Info: Client shutdown gracefully
+[14:42:11.052] Info: Shutting down Star::Root
